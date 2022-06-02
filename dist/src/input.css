@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+}
+@font-face {
+  font-family: "DopeDisplay-BlackItalic";
+  src: local('DopeDisplay-BlackItalic'), url(C:\Users\dasik\projekts\sikroy\srEsrey\fonts\DopeDisplay-BlackItalic.ttf) format('truetype');
+}
+
+
+.slime {
+  color:
+       #00ff00
+}
+
+
+
+
+
+.boom{
+  font-family: "DopeDisplay-BlackItalic";
+}
+.vibes{
+  font-family: "GreatVibes-Regular";
+}
