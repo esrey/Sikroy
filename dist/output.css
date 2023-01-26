@@ -126,7 +126,7 @@ samp,
 pre {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   /* 1 */
-  font-size: 1em;
+  font-size: 2em;
   /* 2 */
 }
 
@@ -135,7 +135,7 @@ Add the correct font size in all browsers.
 */
 
 small {
-  font-size: 80%;
+  font-size: 90%;
 }
 
 /*
@@ -314,7 +314,7 @@ hr,
 figure,
 p,
 pre {
-  margin: 0;
+  margin: 1;
 }
 
 fieldset {
@@ -553,8 +553,9 @@ Ensure the default browser behavior of the `hidden` attribute.
   display: none;
 }
 .logo-size{
-  width: 300px;
+  width: 400px;
   height: auto;
+
 }
 
 .bg-gray-800 {
