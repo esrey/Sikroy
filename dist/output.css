@@ -314,7 +314,7 @@ hr,
 figure,
 p,
 pre {
-  margin: 1;
+  margin: 0;
 }
 
 fieldset {
