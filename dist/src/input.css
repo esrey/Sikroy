@@ -8,6 +8,11 @@
   font-family: "DopeDisplay-BlackItalic";
   src: local('DopeDisplay-BlackItalic'), url(https://github.com/esrey/srEsrey/blob/67a8bde47ef721a9357219fc757c497bdd616509/fonts/DopeDisplay-BlackItalic.ttf) format('truetype');
 }
+.offcanvas-body {
+    flex-grow: 1;
+    padding: var(--bs-offcanvas-padding-y) var(--bs-offcanvas-padding-x);
+    overflow-y: auto;
+}
 
 
 .slime {
